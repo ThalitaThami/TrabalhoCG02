@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1537141414 source:c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\quadcolor.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<vector>
+	<algorithm>
+	"extra.h"
+	"display.h"
+	"gravidade.h"
+	"keyboard.h"
+
+1368290960 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\shared\windows\include\gl\glut.h
+	"freeglut_std.h"
+
+1368290960 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\shared\windows\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1537132829 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\display.h
+
+1537132850 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\extra.h
+
+1537141577 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\gravidade.h
+
+1537141576 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\keyboard.h
+
+1537131506 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\abstractgeom.h
+
+1537127016 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\esfera.h
+	"AbstractGeom.h"
+
+1537131732 c:\users\thali\documents\thalita\estudo\8º período\cg\trabalho01\trabalho01_cg\cg\src\plano.h
+	"AbstractGeom.h"
+	"Esfera.h"
+
